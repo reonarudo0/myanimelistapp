@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055307787321",
+    "firebase_url": "https://projetoteste-e441b.firebaseio.com",
+    "project_id": "projetoteste-e441b",
+    "storage_bucket": "projetoteste-e441b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055307787321:android:eeb2a61984bae59bdb71e8",
+        "android_client_info": {
+          "package_name": "com.example.learningleo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055307787321-9msn14g8voppjul9rbrdp266qpop8h86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTH00HagyT-_HWpW0y6Tp7aUWc8Vh_czI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055307787321-9msn14g8voppjul9rbrdp266qpop8h86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
