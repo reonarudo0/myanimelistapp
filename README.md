@@ -1,10 +1,10 @@
-# myanimelistapp
+# Myanimelist App
 App feito utilizando API 23, para mostrar informações de animes.
 
 - Mostra os animes que estão passando na temporada atual.
-- Mostra animes por genero.
+- Mostra animes por gênero.
 - Mostra informações detalhadas de cada anime.
-- Chat bot que da informações sobre os animes Naruto, Bleach e Fate Series.
+- Chat bot que das informações sobre os animes Naruto, Bleach e Fate Series.
 - Mapas onde o usuário pode marcar outras locais.
 
 # Desenvolvimento
